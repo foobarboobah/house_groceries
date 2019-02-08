@@ -1,4 +1,5 @@
 eggs
 bread
-apples
+cheetos
 mustard
+tuna
